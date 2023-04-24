@@ -2,7 +2,7 @@
 
 </div>
 
-![Cássio GitHub stats](https://github-readme-stats.vercel.app/api?username=cassioaraujo&show_icons=true&theme=radical)
+![Cássio GitHub stats](https://github-readme-stats.vercel.app/api?username=araujocassio&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   
