@@ -1,4 +1,4 @@
-## Olá eu sou o Cássio Araujo! 👨🏽‍💻
+## Olá, eu sou o Cássio Araujo! 👨🏽‍💻
 
 </div>
 
@@ -11,7 +11,7 @@
   <img align="center" alt="Cassio-PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
 </div>
   
-  ##
+  ## Tecnologias
  
 <div> 
  <a href="https://www.instagram.com/cassiio_araujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
