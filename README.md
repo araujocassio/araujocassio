@@ -2,7 +2,7 @@
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujocassio&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujocassio&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   
