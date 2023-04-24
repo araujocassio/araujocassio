@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujocassio&show_icons=true&theme=dark)
 
-## Tecnologias
+## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Cassio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
