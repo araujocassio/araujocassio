@@ -5,7 +5,8 @@
  <a href="https://t.me/engenheirocassiio" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  <a href = "mailto:eng.cassio@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/c%C3%A1ssio-araujo-46b506170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="cassiioaraujo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/cassiioaraujo?trk=profile-badge">Cássio Araujo</a></div>
+              
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujocassio&show_icons=true&theme=dark)
